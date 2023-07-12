@@ -11,8 +11,9 @@
 <a href="https://www.linkedin.com/in/mateo-gonzalez5/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-
+<a>
 [![Google](https://img.shields.io/badge/Google-%23EA4335.svg?&style=for-the-badge&logo=google&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=mateogonzalez622@gmail.com&tf=cm)
+</a>
   
 </p>
 
